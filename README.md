@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HARSHA-SL
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning data science
 - 💞️ I’m looking for an internship
 - 📫 you can reach me by linked in
 linkedin.com/in/harsha-s-l-52477729b
